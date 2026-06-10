@@ -1,0 +1,6 @@
+{
+  "name": "Smart Calculator Vault",
+  "description": "מחשבון כספת סודי לאחסון תמונות וסרטונים בצורה מאובטחת",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
